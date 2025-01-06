@@ -17,7 +17,7 @@ An educational game using parabolic motion to collide objects. Designed as an en
 1. Install [Godot Engine](https://godotengine.org/).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pokeball-game.git
+   git clone https://github.com/Sebastchan8/PokeballGame.git
    ```
 3. Open the project in Godot and run it.
 
