@@ -1,0 +1,5 @@
+Movimiento parabólico del cañón:
+- Teclas de las flechas o W,A, S, D.
+
+Disparo del cañón
+- Barra espaciadora.
